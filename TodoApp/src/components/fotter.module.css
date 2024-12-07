@@ -1,0 +1,22 @@
+.modrenfooter{
+    display:inline;
+    background-color:rgb(198, 101, 236);
+    color:white;
+    font-size: 15px;
+    position: fixed;
+    width:100%;
+    height:20px;
+    
+    
+}
+
+.completedfeild{
+ 
+    
+    float: right;
+    
+
+}
+
+
+
